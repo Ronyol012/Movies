@@ -1,0 +1,24 @@
+.contenedor {
+    display: flex; /* Establece el contenedor como un flex container */
+    width: 900px ;
+    height: 800px;;
+    background-color: #1a1a1a;
+    color: white;
+    margin: 0 100px 0 100px;
+
+
+  }
+  
+  data{ 
+    flex:1;
+    padding-left: 20px;
+  }
+
+  .buttons{ 
+    flex:1;
+  }
+
+  .separador{ 
+    width: 100px;
+  }
+  
